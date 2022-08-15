@@ -2,6 +2,8 @@ package ControlFLowAndConditionals;
 
 public class LogicalOperators {
     public static void main(String[] args) {
+        /*Logical Operators bafethu
+         */
         int ticketPrice = 10;
         int age = 15;
         boolean isStudent = false;
